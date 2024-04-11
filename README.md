@@ -5,13 +5,13 @@ Ghostscript is an interpreter for the PostScript language provided by Artifex So
 
 [**NuGet: PM> Install-Package Iterad.Ghostscript.NET*](www.google.com)
 
-### Contains
+### Components
  * GhostscriptViewer - View PDF, EPS or multi-page PostScript files on the screen
  * GhostscriptRasterizer - Rasterize PDF, EPS or multi-page PostScript files to any common image format.
  * GhostscriptProcessor - An easy way to call a Ghostscript library with a custom arguments / switches.
  * GhostscriptInterpreter - The PostScript interpreter.
 
-### Other features
+### Features
  * allows you to rasterize files in memory without storing the output to disk.
  * supports zoom-in and zoom-out.
  * supports progressive update.
