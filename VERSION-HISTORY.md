@@ -1,16 +1,16 @@
-﻿//
-// version-history
-//
-// This file is part of Ghostscript.NET library
-// Author: Josip Habjan (habjan@gmail.com, http://www.linkedin.com/in/habjan) 
-//
-// Development files: https://github.com/jhabjan/Ghostscript.NET
-//
-// License: Affero General Public License (AGPL) http://www.gnu.org/licenses/agpl.html
-// 
-// Copyright (c) 2013-2021 by Josip Habjan 
 
-HISTORY of the Ghostscript.NET library
+1.2.3          2021-03-09
+-------------------------
+- fixed GhostscriptRasterizer/GhostscriptViewer and Ghostscript v.9.50+ compatibility issues.
+
+1.2.2.         2021-02-04
+-------------------------
+- fixed Ghostscript v.9.26 + (all later versions) compatibility.
+- fixed problem when opening path/file that contains non ASCII characters.
+- fixed "Arithmetic operation resulted in an overflow" when using multithread instance.
+- changed Y and Y DPI settings to match GhostscriptViewer.
+- fixed CurrentPage -> TotalPages logging.
+- fixed watermark transparency bug for PDF.
 
 1.5.0.         2023-05-10
 -------------------------
