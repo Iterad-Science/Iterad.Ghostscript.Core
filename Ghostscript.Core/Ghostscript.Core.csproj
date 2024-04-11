@@ -10,7 +10,7 @@
 		<Company>Habjan</Company>
 		<Copyright>.NET Core Branch by Daniel Porrey. Copyright © 2013-2022 by Josip Habjan (habjan@gmail.com). All Rights Reserved.</Copyright>
 		<Description>Managed wrapper library around the Ghostscript native library (32-bit &amp; 64-bit), an interpreter for the PostScript language, PDF, related software and documentation. Upgraded by Daniel Porrey for .NET Core</Description>
-		<Authors>Habjan,Porrey</Authors>
+		<Authors>Habjan,Porrey,Iterad</Authors>
 		<Product>Ghostscript.Core</Product>
 		<Version>1.5.0-preview-1.0.2</Version>
 		<FileVersion>1.5.0</FileVersion>
@@ -38,7 +38,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-	  <NoWarn>1701;1702;1591</NoWarn>
+	  <NoWarn>1701;1702</NoWarn>
 	  <Title>Ghostscript.NET for .NET Core</Title>
 	  <NeutralLanguage>en</NeutralLanguage>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>

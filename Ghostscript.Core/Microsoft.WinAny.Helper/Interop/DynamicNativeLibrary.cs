@@ -1,37 +1,8 @@
-﻿//
-// DynamicNativeLibrary.cs
-// This file is part of Microsoft.WinAny.Helper library
-//
-// Author: Josip Habjan (habjan@gmail.com, http://www.linkedin.com/in/habjan) 
-// Copyright (c) 2013-2016 by Josip Habjan. All rights reserved.
-//
-// Permission is hereby granted, free of charge, to any person obtaining
-// a copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to
-// permit persons to whom the Software is furnished to do so, subject to
-// the following conditions:
-//
-// The above copyright notice and this permission notice shall be
-// included in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-// EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-// NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-// LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-// OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-// WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-// 
-// Parts of this source code are ported from C to C# by Josip Habjan
-//
-// The Original Code is MemoryModule.c 
-// (https://github.com/fancycode/MemoryModule/blob/master/MemoryModule.c);
-// and it's under Mozilla Public License Version 1.1 
-// (http://www.mozilla.org/MPL/) 
-// The Initial Developer of the Original Code is Joachim Bauch
-// Copyright (C) 2004-2012 Joachim Bauch (mail@joachim-bauch.de). 
+﻿/* DynamicNativeLibrary.cs
+ * This file is part of Iterad.Ghostscript.NET which is released under AGPL3.
+ * See file COPYRIGHT.md or go to https://github.com/Iterad-Science/Iterad.Ghostscript.NET for full copyright information.
+ * See file LICENSE.md or go to http://www.gnu.org/licenses/ for full license details.
+ */
 
 using System;
 using System.Runtime.InteropServices;
