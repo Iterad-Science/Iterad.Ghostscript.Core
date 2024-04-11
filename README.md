@@ -18,7 +18,11 @@ Ghostscript is an interpreter for the PostScript language provided by Artifex So
  * compatible with 32-bit and 64-bit Ghostscript native library.
 
 **VERSION-HISTORY**
+ VERSION-HISTORY.md
  
 **LICENSE**
-
+LICENSE.md
 Iterad.Ghostscript.NET is distributed under the GNU Affero General Public License (see COPYING file).
+
+**COPYRIGHT**
+COPYRIGHT.md
